@@ -1,0 +1,16 @@
+{
+  "name": "dailyviralpkbot",
+  "version": "1.0.0",
+  "description": "Telegram bot starter using Telegraf (DailyViralPKBot)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "dotenv": "^16.0.0"
+  }
+}
